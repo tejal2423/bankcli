@@ -1,0 +1,10 @@
+C:\Users\Rupesh\OneDrive\Desktop\AWP\BankManagementSystem\BankManagementSystem\bin\BankManagementSystem.dll
+C:\Users\Rupesh\OneDrive\Desktop\AWP\BankManagementSystem\BankManagementSystem\bin\BankManagementSystem.pdb
+C:\Users\Rupesh\OneDrive\Desktop\AWP\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.dll
+C:\Users\Rupesh\OneDrive\Desktop\AWP\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.pdb
+C:\Users\Rupesh\OneDrive\Desktop\AWP\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\TEJAL SUNKI\Downloads\BankManagementSystemZ\BankManagementSystem\BankManagementSystem\bin\BankManagementSystem.dll
+C:\Users\TEJAL SUNKI\Downloads\BankManagementSystemZ\BankManagementSystem\BankManagementSystem\bin\BankManagementSystem.pdb
+C:\Users\TEJAL SUNKI\Downloads\BankManagementSystemZ\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\TEJAL SUNKI\Downloads\BankManagementSystemZ\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.dll
+C:\Users\TEJAL SUNKI\Downloads\BankManagementSystemZ\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.pdb
